@@ -1,0 +1,16 @@
+# Local-only credentials and generated artifacts
+.env
+.env.*
+!.env.example
+credentials/
+*.pem
+*.key
+*.p12
+*.log
+*.csv
+*.xlsx
+*.db
+*.sqlite
+node_modules/
+dist/
+build/
