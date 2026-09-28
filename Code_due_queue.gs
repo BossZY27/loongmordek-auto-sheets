@@ -1,4 +1,4 @@
-const SPREADSHEET_ID = '14m9ItBiR4ZDgwfmsT4rmhj7jQi4FBoB9LEs28vkWRg8';
+const SPREADSHEET_ID = 'PASTE_SPREADSHEET_ID_HERE';
 const INPUT_SHEET_NAME = 'AI Input';
 const OUTPUT_SHEET_NAME = 'ชีต1';
 const READY_STATUS = 'รอแปลง';
